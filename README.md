@@ -1,4 +1,4 @@
-# 🚀 Crypto Price Tracker
+# 🚀 Crypto Tracker
 
 A modern, real-time cryptocurrency price tracking application built with React, Redux Toolkit, and Tailwind CSS. Get live updates on the top 10 cryptocurrencies with search and sorting capabilities.
 
